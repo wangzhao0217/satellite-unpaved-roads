@@ -1,0 +1,6 @@
+data/
+data/SIP_data/
+model/
+dist/
+__pycache__
+Output/
